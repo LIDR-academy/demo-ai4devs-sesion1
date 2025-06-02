@@ -12,6 +12,8 @@ To submit, make a pull request that includes a folder copied from the template, 
 
 Good luck!
 
+The content of this repository is part of the AI4Devs program by LIDR.co. You can find all the information on the official website [https://lidr.co/ia-devs](https://www.lidr.co/ia-devs)
+
 # Reverse string ES
 
 Crea una **página web con lógica en javascript que invierta el orden de una cadena de texto**. 
@@ -26,3 +28,4 @@ Para entregar, haz una pull request que incluya una carpeta copiada de template,
 
 ¡Éxitos!
 
+El contenido de este repositorio es parte del programa AI4Devs de LIDR.co. Puedes encontrar toda la información en la página oficial [https://lidr.co/ia-devs](https://www.lidr.co/ia-devs)
